@@ -21,6 +21,7 @@ config/
 input/
   mouse_calibration_targets.csv
 README.md
+LICENSE
 ```
 
 ### `pbtk/model.py`
@@ -199,6 +200,11 @@ computational workflow.
 The public files were reorganized and documented for clarity and reuse and are
 not intended to reproduce the authors' complete development history or
 development-stage code base. No plotting routines are included.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file
+for details.
 
 ## Citation
 
