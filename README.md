@@ -1,5 +1,5 @@
 # MP_PBTK_Reference_Implementation
-論文タイトル：A macrophage-explicit physiologically based toxicokinetic framework for evaluating long-term human organ burdens of ingested microplastics
+Title：A macrophage-explicit physiologically based toxicokinetic framework for evaluating long-term human organ burdens of ingested microplastics
 
 This repository provides a cleaned and documented reference implementation
 of the macrophage-explicit PBTK framework described in the associated
